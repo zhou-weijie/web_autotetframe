@@ -1,0 +1,18 @@
+2020-05-18 20:41:04,717 - BasePage - INFO - wait for 5 seconds.
+2020-05-18 20:41:04,831 - BasePage - INFO - Had type ' x8494149 ' in inputBox
+2020-05-18 20:41:04,844 - BasePage - INFO - wait for 5 seconds.
+2020-05-18 20:41:04,953 - BasePage - INFO - Had type ' qweASD*963. ' in inputBox
+2020-05-18 20:41:05,233 - BasePage - INFO - The element '<selenium.webdriver.remote.webelement.WebElement (session="9dca90641fc693874eb3de71c23728fe", element="427015fd-d61a-4256-b553-e2e86d24f55d")>' was clicked.
+2020-05-18 20:41:05,233 - cloud_page - INFO - show results!
+2020-05-18 20:41:07,233 - BasePage - INFO - Sleep for 2 seconds
+2020-05-18 20:41:07,245 - BasePage - INFO - wait for 5 seconds.
+2020-05-18 20:41:07,265 - BasePage - INFO - Get text information:' ’À∫≈ªÚ√‹¬Î¥ÌŒÛ ' successfully !!
+2020-05-18 20:41:19,920 - BasePage - INFO - wait for 5 seconds.
+2020-05-18 20:41:20,038 - BasePage - INFO - Had type ' x8494149x ' in inputBox
+2020-05-18 20:41:20,049 - BasePage - INFO - wait for 5 seconds.
+2020-05-18 20:41:20,145 - BasePage - INFO - Had type ' qweASD ' in inputBox
+2020-05-18 20:41:20,388 - BasePage - INFO - The element '<selenium.webdriver.remote.webelement.WebElement (session="4365027e667f02a74e9d5af2b8267f54", element="7105314a-43fd-4eea-ba1c-d3e0f2812f57")>' was clicked.
+2020-05-18 20:41:20,388 - cloud_page - INFO - show results!
+2020-05-18 20:41:22,389 - BasePage - INFO - Sleep for 2 seconds
+2020-05-18 20:41:22,402 - BasePage - INFO - wait for 5 seconds.
+2020-05-18 20:41:22,422 - BasePage - INFO - Get text information:' ’À∫≈ªÚ√‹¬Î¥ÌŒÛ ' successfully !!

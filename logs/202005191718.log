@@ -1,0 +1,103 @@
+2020-05-19 17:18:19,692 - BasePage - INFO - wait for 5 seconds.
+2020-05-19 17:18:19,977 - BasePage - INFO - The element '<selenium.webdriver.remote.webelement.WebElement (session="d404e84fe2710bcac3a0ce5a9777cceb", element="d8333b09-1841-4531-9290-d7e6c1ab5b5c")>' was clicked.
+2020-05-19 17:18:19,977 - firstPage - INFO - click login_button
+2020-05-19 17:18:20,160 - BasePage - INFO - wait for 5 seconds.
+2020-05-19 17:18:20,282 - BasePage - INFO - Had type ' x8494149x ' in inputBox
+2020-05-19 17:18:20,295 - BasePage - INFO - wait for 5 seconds.
+2020-05-19 17:18:20,397 - BasePage - INFO - Had type ' qweASD*963. ' in inputBox
+2020-05-19 17:18:20,897 - BasePage - INFO - The element '<selenium.webdriver.remote.webelement.WebElement (session="d404e84fe2710bcac3a0ce5a9777cceb", element="388a270d-bfce-4133-b0d7-48b574928578")>' was clicked.
+2020-05-19 17:18:20,897 - loginPage - INFO - show results!
+2020-05-19 17:18:22,898 - BasePage - INFO - Sleep for 2 seconds
+2020-05-19 17:18:22,911 - BasePage - INFO - wait for 5 seconds.
+2020-05-19 17:18:22,932 - BasePage - INFO - Get text information:' x8494149x ' successfully !!
+2020-05-19 17:18:22,933 - myAccountPage - INFO - show text: x8494149x
+2020-05-19 17:18:37,839 - BasePage - INFO - wait for 5 seconds.
+2020-05-19 17:18:38,117 - BasePage - INFO - The element '<selenium.webdriver.remote.webelement.WebElement (session="4eab54aa5783a307ae101f71e877af9b", element="04ceb982-c591-43c7-8f35-230dba104f3f")>' was clicked.
+2020-05-19 17:18:38,117 - firstPage - INFO - click login_button
+2020-05-19 17:18:38,316 - BasePage - INFO - wait for 5 seconds.
+2020-05-19 17:18:38,457 - BasePage - INFO - Had type ' x8494149 ' in inputBox
+2020-05-19 17:18:38,473 - BasePage - INFO - wait for 5 seconds.
+2020-05-19 17:18:38,598 - BasePage - INFO - Had type ' qweASD*963. ' in inputBox
+2020-05-19 17:18:38,870 - BasePage - INFO - The element '<selenium.webdriver.remote.webelement.WebElement (session="4eab54aa5783a307ae101f71e877af9b", element="c34507ce-835b-44ce-abc1-1688e9011b54")>' was clicked.
+2020-05-19 17:18:38,870 - loginPage - INFO - show results!
+2020-05-19 17:18:40,871 - BasePage - INFO - Sleep for 2 seconds
+2020-05-19 17:18:40,883 - BasePage - INFO - wait for 5 seconds.
+2020-05-19 17:18:40,905 - BasePage - INFO - Get text information:' ’À∫≈ªÚ√‹¬Î¥ÌŒÛ ' successfully !!
+2020-05-19 17:18:40,905 - loginPage - INFO - show text: ’À∫≈ªÚ√‹¬Î¥ÌŒÛ
+2020-05-19 17:18:55,283 - BasePage - INFO - wait for 5 seconds.
+2020-05-19 17:18:55,550 - BasePage - INFO - The element '<selenium.webdriver.remote.webelement.WebElement (session="9234b2ca07cff947a60921a56506a9cd", element="fa04185f-45a4-4245-aa15-15c76544e91c")>' was clicked.
+2020-05-19 17:18:55,550 - firstPage - INFO - click login_button
+2020-05-19 17:18:55,737 - BasePage - INFO - wait for 5 seconds.
+2020-05-19 17:18:55,851 - BasePage - INFO - Had type ' x8494149x ' in inputBox
+2020-05-19 17:18:55,863 - BasePage - INFO - wait for 5 seconds.
+2020-05-19 17:18:55,961 - BasePage - INFO - Had type ' qweASD ' in inputBox
+2020-05-19 17:18:56,191 - BasePage - INFO - The element '<selenium.webdriver.remote.webelement.WebElement (session="9234b2ca07cff947a60921a56506a9cd", element="3dbd75eb-e97e-42bf-b246-30cbf6562721")>' was clicked.
+2020-05-19 17:18:56,192 - loginPage - INFO - show results!
+2020-05-19 17:18:58,193 - BasePage - INFO - Sleep for 2 seconds
+2020-05-19 17:18:58,206 - BasePage - INFO - wait for 5 seconds.
+2020-05-19 17:18:58,228 - BasePage - INFO - Get text information:' ’À∫≈ªÚ√‹¬Î¥ÌŒÛ ' successfully !!
+2020-05-19 17:18:58,228 - loginPage - INFO - show text: ’À∫≈ªÚ√‹¬Î¥ÌŒÛ
+2020-05-19 17:19:13,621 - BasePage - INFO - wait for 5 seconds.
+2020-05-19 17:19:13,904 - BasePage - INFO - The element '<selenium.webdriver.remote.webelement.WebElement (session="7275a5d19b1d86355ecc08fa07e4b992", element="5458919a-bcaf-4385-a4c5-c7fefd772772")>' was clicked.
+2020-05-19 17:19:13,904 - firstPage - INFO - click login_button
+2020-05-19 17:19:14,087 - BasePage - INFO - wait for 5 seconds.
+2020-05-19 17:19:14,212 - BasePage - INFO - Had type ' x8494149x ' in inputBox
+2020-05-19 17:19:14,222 - BasePage - INFO - wait for 5 seconds.
+2020-05-19 17:19:14,323 - BasePage - INFO - Had type ' qweASD*963. ' in inputBox
+2020-05-19 17:19:14,818 - BasePage - INFO - The element '<selenium.webdriver.remote.webelement.WebElement (session="7275a5d19b1d86355ecc08fa07e4b992", element="85936ca5-1a48-4075-a7ad-017b9d4f5823")>' was clicked.
+2020-05-19 17:19:14,818 - loginPage - INFO - show results!
+2020-05-19 17:19:16,818 - BasePage - INFO - Sleep for 2 seconds
+2020-05-19 17:19:16,830 - BasePage - INFO - wait for 5 seconds.
+2020-05-19 17:19:18,345 - BasePage - INFO - The element '<selenium.webdriver.remote.webelement.WebElement (session="7275a5d19b1d86355ecc08fa07e4b992", element="ff3e6574-778c-44f9-baaf-c037fbe1c626")>' was clicked.
+2020-05-19 17:19:18,346 - firstPage - INFO - click goods!
+2020-05-19 17:19:18,365 - BasePage - INFO - wait for 5 seconds.
+2020-05-19 17:19:18,699 - BasePage - INFO - The element '<selenium.webdriver.remote.webelement.WebElement (session="7275a5d19b1d86355ecc08fa07e4b992", element="c2936ca1-327c-446b-b0e7-957d36ed153a")>' was clicked.
+2020-05-19 17:19:18,699 - goodsPage - INFO - click buy_button!
+2020-05-19 17:19:32,790 - BasePage - INFO - wait for 5 seconds.
+2020-05-19 17:19:33,077 - BasePage - INFO - The element '<selenium.webdriver.remote.webelement.WebElement (session="30234e455622649fef07452a8d22c6ad", element="c20b312b-45f9-4f77-a926-0bd4f9be0585")>' was clicked.
+2020-05-19 17:19:33,077 - firstPage - INFO - click login_button
+2020-05-19 17:19:33,261 - BasePage - INFO - wait for 5 seconds.
+2020-05-19 17:19:33,390 - BasePage - INFO - Had type ' x8494149x ' in inputBox
+2020-05-19 17:19:33,399 - BasePage - INFO - wait for 5 seconds.
+2020-05-19 17:19:33,512 - BasePage - INFO - Had type ' qweASD*963. ' in inputBox
+2020-05-19 17:19:34,015 - BasePage - INFO - The element '<selenium.webdriver.remote.webelement.WebElement (session="30234e455622649fef07452a8d22c6ad", element="b7a2bd74-33ef-4f49-9f4a-3bfac8079557")>' was clicked.
+2020-05-19 17:19:34,015 - loginPage - INFO - show results!
+2020-05-19 17:19:36,016 - BasePage - INFO - Sleep for 2 seconds
+2020-05-19 17:19:36,029 - BasePage - INFO - wait for 5 seconds.
+2020-05-19 17:19:36,124 - BasePage - INFO - Had type ' ∆ªπ˚ ' in inputBox
+2020-05-19 17:19:36,138 - BasePage - INFO - wait for 5 seconds.
+2020-05-19 17:19:36,673 - BasePage - INFO - The element '<selenium.webdriver.remote.webelement.WebElement (session="30234e455622649fef07452a8d22c6ad", element="c0e37ece-58a2-42e7-80be-935c019d5832")>' was clicked.
+2020-05-19 17:19:36,673 - firstPage - INFO - click search_button!
+2020-05-19 17:19:36,856 - BasePage - INFO - wait for 5 seconds.
+2020-05-19 17:19:51,095 - BasePage - INFO - wait for 5 seconds.
+2020-05-19 17:19:51,367 - BasePage - INFO - The element '<selenium.webdriver.remote.webelement.WebElement (session="a3807c2d5f72c8a73300e85d1ca93613", element="09cba6a8-4679-4059-a900-d1d8ed780c18")>' was clicked.
+2020-05-19 17:19:51,367 - firstPage - INFO - click login_button
+2020-05-19 17:19:51,554 - BasePage - INFO - wait for 5 seconds.
+2020-05-19 17:19:51,684 - BasePage - INFO - Had type ' x8494149x ' in inputBox
+2020-05-19 17:19:51,698 - BasePage - INFO - wait for 5 seconds.
+2020-05-19 17:19:51,819 - BasePage - INFO - Had type ' qweASD*963. ' in inputBox
+2020-05-19 17:19:52,306 - BasePage - INFO - The element '<selenium.webdriver.remote.webelement.WebElement (session="a3807c2d5f72c8a73300e85d1ca93613", element="a93df06f-7fae-4958-a36a-a5bfd2a202c2")>' was clicked.
+2020-05-19 17:19:52,306 - loginPage - INFO - show results!
+2020-05-19 17:19:54,306 - BasePage - INFO - Sleep for 2 seconds
+2020-05-19 17:19:54,318 - BasePage - INFO - wait for 5 seconds.
+2020-05-19 17:19:54,411 - BasePage - INFO - Had type ' ¿Ê◊” ' in inputBox
+2020-05-19 17:19:54,423 - BasePage - INFO - wait for 5 seconds.
+2020-05-19 17:19:54,816 - BasePage - INFO - The element '<selenium.webdriver.remote.webelement.WebElement (session="a3807c2d5f72c8a73300e85d1ca93613", element="bff90937-0b75-43cf-afd2-e172851091ef")>' was clicked.
+2020-05-19 17:19:54,816 - firstPage - INFO - click search_button!
+2020-05-19 17:19:54,998 - BasePage - INFO - wait for 5 seconds.
+2020-05-19 17:20:09,418 - BasePage - INFO - wait for 5 seconds.
+2020-05-19 17:20:09,727 - BasePage - INFO - The element '<selenium.webdriver.remote.webelement.WebElement (session="2bc24582510771e2a082ceb0d557d1f8", element="164d7784-9fb4-4860-b5d0-94704ea13879")>' was clicked.
+2020-05-19 17:20:09,727 - firstPage - INFO - click login_button
+2020-05-19 17:20:09,911 - BasePage - INFO - wait for 5 seconds.
+2020-05-19 17:20:10,039 - BasePage - INFO - Had type ' x8494149x ' in inputBox
+2020-05-19 17:20:10,050 - BasePage - INFO - wait for 5 seconds.
+2020-05-19 17:20:10,156 - BasePage - INFO - Had type ' qweASD*963. ' in inputBox
+2020-05-19 17:20:10,649 - BasePage - INFO - The element '<selenium.webdriver.remote.webelement.WebElement (session="2bc24582510771e2a082ceb0d557d1f8", element="ec560de9-227d-463f-88d8-83853880e7fc")>' was clicked.
+2020-05-19 17:20:10,650 - loginPage - INFO - show results!
+2020-05-19 17:20:12,651 - BasePage - INFO - Sleep for 2 seconds
+2020-05-19 17:20:12,663 - BasePage - INFO - wait for 5 seconds.
+2020-05-19 17:20:12,752 - BasePage - INFO - Had type ' –°√◊ ' in inputBox
+2020-05-19 17:20:12,764 - BasePage - INFO - wait for 5 seconds.
+2020-05-19 17:20:13,248 - BasePage - INFO - The element '<selenium.webdriver.remote.webelement.WebElement (session="2bc24582510771e2a082ceb0d557d1f8", element="fb0eae2b-744d-416e-9505-7df3a7ff87c7")>' was clicked.
+2020-05-19 17:20:13,248 - firstPage - INFO - click search_button!
+2020-05-19 17:20:13,471 - BasePage - INFO - wait for 5 seconds.

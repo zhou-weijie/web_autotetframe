@@ -1,0 +1,25 @@
+2020-05-18 20:52:25,391 - BasePage - INFO - wait for 5 seconds.
+2020-05-18 20:52:25,506 - BasePage - INFO - Had type ' x8494149x ' in inputBox
+2020-05-18 20:52:25,519 - BasePage - INFO - wait for 5 seconds.
+2020-05-18 20:52:25,617 - BasePage - INFO - Had type ' qweASD*963. ' in inputBox
+2020-05-18 20:52:26,266 - BasePage - INFO - The element '<selenium.webdriver.remote.webelement.WebElement (session="433e4006e247f654ffec06455f84fdd5", element="7967e32e-684a-478d-8fc5-e88e7413ea11")>' was clicked.
+2020-05-18 20:52:26,266 - cloud_page - INFO - show results!
+2020-05-18 20:52:28,267 - BasePage - INFO - Sleep for 2 seconds
+2020-05-18 20:52:51,543 - BasePage - INFO - wait for 5 seconds.
+2020-05-18 20:52:51,658 - BasePage - INFO - Had type ' x8494149 ' in inputBox
+2020-05-18 20:52:51,670 - BasePage - INFO - wait for 5 seconds.
+2020-05-18 20:52:51,785 - BasePage - INFO - Had type ' qweASD*963. ' in inputBox
+2020-05-18 20:52:52,031 - BasePage - INFO - The element '<selenium.webdriver.remote.webelement.WebElement (session="34927e59d24e09cef07cb0b6152bb96d", element="0c1e19e6-e84b-421f-a21e-470ea0cbccda")>' was clicked.
+2020-05-18 20:52:52,031 - cloud_page - INFO - show results!
+2020-05-18 20:52:54,032 - BasePage - INFO - Sleep for 2 seconds
+2020-05-18 20:52:54,044 - BasePage - INFO - wait for 5 seconds.
+2020-05-18 20:52:54,064 - BasePage - INFO - Get text information:' ’À∫≈ªÚ√‹¬Î¥ÌŒÛ ' successfully !!
+2020-05-18 20:53:06,707 - BasePage - INFO - wait for 5 seconds.
+2020-05-18 20:53:06,819 - BasePage - INFO - Had type ' x8494149x ' in inputBox
+2020-05-18 20:53:06,830 - BasePage - INFO - wait for 5 seconds.
+2020-05-18 20:53:06,928 - BasePage - INFO - Had type ' qweASD ' in inputBox
+2020-05-18 20:53:07,201 - BasePage - INFO - The element '<selenium.webdriver.remote.webelement.WebElement (session="4f06f695f88f19c81a427a1dd2470818", element="30bf7dec-f4b5-4507-9600-f1eef0001cbf")>' was clicked.
+2020-05-18 20:53:07,201 - cloud_page - INFO - show results!
+2020-05-18 20:53:09,202 - BasePage - INFO - Sleep for 2 seconds
+2020-05-18 20:53:09,214 - BasePage - INFO - wait for 5 seconds.
+2020-05-18 20:53:09,234 - BasePage - INFO - Get text information:' ’À∫≈ªÚ√‹¬Î¥ÌŒÛ ' successfully !!
